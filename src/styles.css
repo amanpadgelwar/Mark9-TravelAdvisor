@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(162, 211, 211);
+}
+
+h1 {
+  color: yellowgreen;
+}
+
+p {
+  color: black;
+}
